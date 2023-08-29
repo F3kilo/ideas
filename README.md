@@ -1,1 +1,1 @@
-Some idea about N
+Some idea about hello
